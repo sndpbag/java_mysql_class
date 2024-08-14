@@ -1,0 +1,6 @@
+javac -cp .;connector.jar adds.java
+
+java -cp .;connector.jar adds
+
+
+notes : here connector.jar file is mysql connection/ driver file name
